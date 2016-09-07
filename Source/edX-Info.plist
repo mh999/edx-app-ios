@@ -17,6 +17,8 @@
 		<string>Icon-40@3x.png</string>
 		<string>Icon-60@2x.png</string>
 		<string>Icon-60@3x.png</string>
+		<string>Icon-76.png</string>
+		<string>Icon-76@2x.png</string>
 	</array>
 	<key>CFBundleIcons</key>
 	<dict/>
